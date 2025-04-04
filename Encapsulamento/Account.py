@@ -10,8 +10,8 @@ class BankAccount:
     __customer: Customer
     __balance: float
 
-    # Com o uso de '@property', podemos definir getters e setters para garantir que os dados serão acessados por meio de métodos ao invés de diretamente,
-    # isso garante que os dados estejam seguros e não hajam alterações por engano, além de ser possível garantir regras de negócio ou validação para dados
+    # Com o uso de '@property', podemos definir getters e setters para assegurar que os dados serão acessados por meio dos métodos ao invés de diretamente,
+    # isso garante que os dados estejam seguros e não hajam alterações por engano, além de ser possível assgurar regras de negócio ou validação para dados
     # específicos. 
 
     @property
