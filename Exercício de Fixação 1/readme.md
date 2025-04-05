@@ -1,0 +1,1 @@
+Vamos criar uma aplicação bancária implementando os conceitos aprendidos até o momento. A idéia aqui é garantir o uso dos pilares da POO e dos conceitos de SOLID. Mais detalhes serão acrescentados conforme o desenrolar do desenvolvimento da aplicação.
